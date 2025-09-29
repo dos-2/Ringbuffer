@@ -1,6 +1,3 @@
-# Ringbuffer
-cache aligned lock free ring buffer c++ 23
-
 # Lock-Free Ring Buffer
 
 A simple, header-only **cache aligned lock-free ring buffer** implementation in C++23.
